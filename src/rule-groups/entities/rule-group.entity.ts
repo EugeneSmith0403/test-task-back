@@ -1,0 +1,6 @@
+export class RuleGroupEntity {
+  name: string;
+  constructor(name: string) {
+    this.name = name;
+  }
+}
